@@ -1,0 +1,144 @@
+00100620200
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+16
+Lê Thành Trung
+Cần Giờ
+3184000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Đang giao hàng
+10062020
+11062020
+00100620201
+root
+000002002
+Bộ tái tạo da chiết xuất vàng 24k 5 món minisize Ohui The First Geniture 57ml (date 12/2020)
+5
+Lê Thành Trung
+Cần Giờ
+2495000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620202
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+16
+Lê Thành Trung
+HCM
+3184000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620203
+root
+000002002
+Bộ tái tạo da chiết xuất vàng 24k 5 món minisize Ohui The First Geniture 57ml (date 12/2020)
+5
+Lê Thành Trung
+HCM
+2495000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620204
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+16
+trung
+hcm
+3184000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620205
+root
+000002002
+Bộ tái tạo da chiết xuất vàng 24k 5 món minisize Ohui The First Geniture 57ml (date 12/2020)
+5
+trung
+hcm
+2495000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620206
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+16
+trung
+hcm
+3184000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620207
+root
+000002002
+Bộ tái tạo da chiết xuất vàng 24k 5 món minisize Ohui The First Geniture 57ml (date 12/2020)
+5
+trung
+hcm
+2495000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620208
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+16
+trung
+hcm
+3184000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+00100620209
+root
+000002002
+Bộ tái tạo da chiết xuất vàng 24k 5 món minisize Ohui The First Geniture 57ml (date 12/2020)
+5
+trung
+hcm
+2495000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+001006202010
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+32
+Lê Thành Trung
+Hồ Chí Minh
+6368000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020
+001006202011
+root
+000000000
+Bộ sản phẩm mặt nạ được yêu thích nhất Laneige Mask
+1
+Lê Thành Trung
+Hồ Chí Minh
+199000
+Thanh toán tiền mặt khi nhận hàng (COD)
+Chờ xác nhận
+10062020
+10062020

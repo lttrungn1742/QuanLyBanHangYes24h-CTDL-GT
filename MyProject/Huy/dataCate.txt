@@ -1,0 +1,22 @@
+Gia Dụng
+00
+Mỹ Phẩm
+01
+Thời Trang
+02
+Quần Áo
+03
+Giày Dép
+04
+Sex Toy
+05
+Nội Thất
+06
+Điện Thoại
+07
+Laptop
+08
+Đồng Hồ
+09
+Gái
+10
